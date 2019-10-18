@@ -4,7 +4,7 @@
 
 ### Overview
 
-Just like in last week's workshop you will add some content to a very basic html document. This time the html document is called 'modules.html'. It can be found in this repository. 
+Just like in the previous task you will add some content to a very basic HTML document. This time the HTML document is called 'modules.html'. It can be found in this repository. 
 
 ### Editing
 
@@ -12,9 +12,9 @@ Just like in last week's workshop you will add some content to a very basic html
 
 If you like you can edit the document directly in GitHub's web interface. This is a very convenient way of editing the file. 
 
-If you want to test your files (especially in the future when we've started using PHP) you should upload them to your web space on bimserver2.com. 
+If you want to test your files (especially in the future when we've started using PHP) you should upload them to your webspace on bimserver2.com. 
 
-If you want to have a quick look whether your html files are working you can check by using the HTML preview site http://htmlpreview.github.io/? - simply add http://htmlpreview.github.io/? before the URL of your HTML file.   
+If you want to have a quick look whether your HTML files are working you can check by using the HTML preview site http://htmlpreview.github.io/? - simply add http://htmlpreview.github.io/? before the URL of your HTML file.   
 
 #### The preferred way...
 
@@ -31,7 +31,7 @@ To get the repository to your own machine you can use GitHub Desktop or link you
 
 Below is today's task. You have to do this work in the 'modules.html' file. It can be found in the same repository as the text you are currently reading. 
 
-* Add information about all the modules you study this year to the html document. 
+* Add information about all the modules you study this year to the HTML document. 
 * Module codes and titles should be headings.
 * Add very short module descriptions for each module. These should be paragraphs.
 * Give the page a meaningful title
